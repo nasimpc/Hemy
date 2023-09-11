@@ -2,6 +2,7 @@
 A Fitness food delivery app. The vision of Hemy is to combine fitness and food delivery services and provide a better, more useful end-product to users.
 
 ##Introduction: 
+
 Food delivery apps are very popular nowadays. Which only focuses on the convenience of the customers and profit of the hotels. So Hemy will be a revolutionary product for food lovers who care about their health.
 ● A unique and remarkable fusion of food delivery and fitness app features
 ● Ai-powered Hemy cam for analyzing calorie content of any food product
@@ -18,6 +19,7 @@ Food delivery apps are very popular nowadays. Which only focuses on the convenie
 °user can use calorie report for analyzing her daily calori intake , and manage it accordingly
 
 ##Drawbacks:
+
 Require more training data for accurate prediction of the calorie content of food products
 Hemy cam calorie analysis is not perfect
 Can’t run on older versions of android or old android devices as the Hemy app is resource demanding
