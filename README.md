@@ -15,7 +15,7 @@ Food delivery apps are very popular nowadays. Which only focuses on the convenie
 <img width="874" alt="Screenshot 2023-09-11 at 4 42 07 PM" src="https://github.com/nasimpc/Hemy/assets/100104479/d1722486-a4dd-461f-84d3-68a9fa98db30">
 ° when user order a food product respective amout of calories will be added to Hemy report graph
 °If the food is not ordered from Hemy user can just scan it using Hemy cam, and give permission to add respective calories to Hemy report
-°user can use calorie report for analyzing her daily calori intake , and manage it accordingly
+°user can use calorie report for analyzing his daily calori intake , and manage it accordingly
 
 ## Drawbacks:
 Require more training data for accurate prediction of the calorie content of food products
